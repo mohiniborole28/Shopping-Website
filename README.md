@@ -1,4 +1,5 @@
 #shopping-website-
+
 A full-stack e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project encompasses user authentication, product management, shopping cart functionality, and more.
 
 ## Project Structure
@@ -11,9 +12,11 @@ A full-stack e-commerce application built using the MERN stack (MongoDB, Express
 
 ## Getting Started
 1. Clone the Repository
-    ``` git clone https://github.com/HuXn-WebDev/MERN-E-Commerce-Store.git ```
+    ```
+        git clone https://github.com/HuXn-WebDev/MERN-E-Commerce-Store.git
+     ```
 
-2. Set Up Environment Variables
+3. Set Up Environment Variables
    Create a .env file in the root directory and configure the following variables:
    ```
        PORT=5000
@@ -21,7 +24,7 @@ A full-stack e-commerce application built using the MERN stack (MongoDB, Express
        JWT_SECRET=your_jwt_secret_key
     ```
 
-3. Install Dependencies
+4. Install Dependencies
    Backend
    ```
       cd backend
@@ -33,7 +36,7 @@ A full-stack e-commerce application built using the MERN stack (MongoDB, Express
       npm install
    ```
 
-4. Run the Application
+5. Run the Application
    Start the Backend Server
    ```
        cd backend
