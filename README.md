@@ -1,4 +1,4 @@
-#shopping-website-
+# shopping-website-
 
 A full-stack e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project encompasses user authentication, product management, shopping cart functionality, and more.
 
